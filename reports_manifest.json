@@ -1,0 +1,14 @@
+{
+    "name": "Reports Power App",
+    "description": "Embedded Power App for running reports in Raiser's Edge NXT",
+    "url": "https://apps.powerapps.com/play/e/default-7ef60104-df2d-46cf-bcd7-b6aab32ac792/a/d35c16f2-b220-4bc5-9886-656f76d9fb7a?tenantId=7ef60104-df2d-46cf-bcd7-b6aab32ac792&hint=1e615e0f-d7a5-4f4d-a9b6-b76fd85f8a60&sourcetime=1756331504268",
+    "icon": "https://opphouse.org/wp-content/uploads/2025/08/report_icon64.png",
+    "target": {
+        "area": "record",
+        "location": "constituent",
+        "type": "tab"
+    },
+    "permissions": {
+        "access": "everyone"
+    }
+}
